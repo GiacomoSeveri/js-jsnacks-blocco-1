@@ -25,6 +25,6 @@ btn.addEventListener('click', function(){
 
     }
 
-    result.innerText = allow ? 'Prego, venga pure' : 'Non sei stato invitato, SMAMMA!';
+    result.innerText = allow ? 'Prego venga pure, Gatsby ti aspetta.' : 'Non sei stato invitato, SMAMMA!';
 });
 
